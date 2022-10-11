@@ -1,11 +1,6 @@
 # Authors
 
--   [Harshit Trivedi](harshit.trivedi@dal.ca)
--   [Ketan Bhalerao](kt329967@dal.ca)
--   [Nuthalapati Praneeth](pr455456@dal.ca)
--   [Shah Devam](dv592381@dal.ca)
--   [Zhou Yitong](yt760204@dal.ca)
-
+-   SHARMILAA G C
 # Overview
 
 Food waste is increasing at an alarming rate and is one of the most common problems that almost every household possesses. The application DoFood aims to provide 
