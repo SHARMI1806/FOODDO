@@ -3,13 +3,5 @@
 -   SHARMILAA G C
 # Overview
 
-Food waste is increasing at an alarming rate and is one of the most common problems that almost every household possesses. The application DoFood aims to provide 
-donors and consumers a platform to connect and exchange unwanted/excess food. The idea is that donors post about having excess food resources, thus making it 
-available for charities and consumers. They can then easily connect and communicate with each other. People can also enroll as volunteers to help in food exchange 
-activities and thus contribute toward betterment of society.
-
-DoFood can make the overall process of food exchange and donation smooth between the donors and charities by involving volunteers as a bridge. 
-It aims to strengthen the bond of donations between different charities and donors so that the charities never get short on their foods and the needy ones get 
-their required quantities of food whenever required. Moreover, if an individual wants to volunteer for some charity as a civic activity, then DoFood can prove as 
-a good platform for searching charities to work with. We believe that this informative application has the power to unite the donors and charities in order to tackle 
-the global problem of food deficiency.
+One of the most prevalent issues that practically every household faces is the worrying rise in food waste. DoFood is an app that connects donors and consumers so they may exchange surplus or unwanted food. Donors are supposed to write about having extra food supplies so that organisations and consumers can use them. Once connected, they may simply speak with one another. Additionally, anyone can sign up as volunteers to assist in food exchange activities and thereby improve society.
+By using volunteers as a bridge, DoFood can make the trade and gift of food between donors and organisations seamless.It strives to increase the connection between contributors and charities so that the charities never run out of food and the hungry always receive the necessary amounts of food. DoFood can also prove to be a useful platform for finding charities to work with if someone wants to volunteer for a charity as a civic duty. We think that our application can help organisations and donors work together to address the worldwide issue of food insecurity.
